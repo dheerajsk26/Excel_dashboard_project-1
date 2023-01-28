@@ -1,4 +1,4 @@
-# Excel_dashboard_project-1
+# Wage & Employees trend in US(Excel Project-1)
 
 ## The project consists of US labor statistics data from 2017 to 2020. I created a excel dashboard that can be used to explore wage and employment trends, and compare them across industries. Also, a map showing differences across states. 
 
