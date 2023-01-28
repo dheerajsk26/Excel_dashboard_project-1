@@ -13,3 +13,4 @@
 * Formatting options
 * Understanding & usage of a secondary axis
 
+![image](https://user-images.githubusercontent.com/77773902/215287126-425f943b-e191-44fc-bfc0-c0671b30b9d4.png)
