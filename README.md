@@ -1,5 +1,5 @@
 # Excel_dashboard_project-1
-## The project is consists US labor statistics data from 2017 to 2020. I created the dashboard that can be used to explore wage and employment trends, and compare them across industries. Also, a map showing differences across states. 
+## The project consists US labor statistics data from 2017 to 2020. I created the dashboard that can be used to explore wage and employment trends, and compare them across industries. Also, a map showing differences across states. 
 
 ### Excel concepts covered:- 
 * Statistical & Lookup Formulas
